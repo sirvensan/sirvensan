@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valery Peltier</h1>
-<h3 align="center">Product owner with ten years of experience in infrastructure investment in developing economies. Working as a post war reconstruction specialist for EBRD.</h3>
+<h3 align="center">Product owner with ten years of experience in infrastructure investment in developing economies. Working as a post war reconstruction specialist for the European Bank of Reconstruction and Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirvensan&label=Profile%20views&color=0e75b6&style=flat" alt="sirvensan" /> </p>
 
